@@ -60,3 +60,6 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+
+
+//Ez a változtatás.
